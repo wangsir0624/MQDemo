@@ -1,0 +1,11 @@
+{
+  "require": {
+    "wangjian/mqclient": "*"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "Wangjian\\MQDemo\\": ""
+    }
+  }
+}
